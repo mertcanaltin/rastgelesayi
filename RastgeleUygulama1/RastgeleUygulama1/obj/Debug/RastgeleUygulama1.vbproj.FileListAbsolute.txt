@@ -1,0 +1,10 @@
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\RastgeleUygulama1\RastgeleUygulama1\bin\Debug\RastgeleUygulama1.exe.config
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\RastgeleUygulama1\RastgeleUygulama1\bin\Debug\RastgeleUygulama1.exe
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\RastgeleUygulama1\RastgeleUygulama1\bin\Debug\RastgeleUygulama1.pdb
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\RastgeleUygulama1\RastgeleUygulama1\bin\Debug\RastgeleUygulama1.xml
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\RastgeleUygulama1\RastgeleUygulama1\obj\Debug\RastgeleUygulama1.Form1.resources
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\RastgeleUygulama1\RastgeleUygulama1\obj\Debug\RastgeleUygulama1.Resources.resources
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\RastgeleUygulama1\RastgeleUygulama1\obj\Debug\RastgeleUygulama1.vbproj.GenerateResource.Cache
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\RastgeleUygulama1\RastgeleUygulama1\obj\Debug\RastgeleUygulama1.exe
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\RastgeleUygulama1\RastgeleUygulama1\obj\Debug\RastgeleUygulama1.xml
+D:\MutluYALI\2017-2018 Bahar\Görsel1\İÖ\Hafta10\RastgeleUygulama1\RastgeleUygulama1\obj\Debug\RastgeleUygulama1.pdb
